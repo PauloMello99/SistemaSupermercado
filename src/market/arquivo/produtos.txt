@@ -1,0 +1,9 @@
+Banana da Terra|7.8|KG|
+Banana Prata|5.8|KG|
+Maçã|2.5|UND|
+Goiaba|2|UND|
+Alface|3|UND|
+Chicória|2.5|UND|
+caju|15.00|UND|
+Batata|5|KG|
+Laranja|25|UND|
